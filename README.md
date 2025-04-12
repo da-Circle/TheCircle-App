@@ -1,24 +1,60 @@
-
 <!---
 ![logo](images/logo.png)
 -->
 
 ## Usage
 
-The-Circle is an community application developed and built with [Flutter](https://flutter.dev/), and is available for Mobile/Desktop
+The Circle is a community application developed with [Flutter](https://flutter.dev/) and is available for both Mobile and Desktop platforms.
 
-Link with Platform-specific packages will be added Soon!
+Links to platform-specific packages will be added soon!
 
 ## Development
 
-Fork and clone the repository, then install the dependencies:
+1. Fork and clone the repository.
+2. Install the dependencies:
 
+    ```bash
     flutter pub get
+    ```
 
+3. Start the app:
 
-Start the app:
-
+    ```bash
     flutter run
+    ```
+## Provide Feedback, Report Bugs & Request New Features
+
+Just click on the [Issue tab](https://github.com/da-Circle/TheCircle-App/issues) to raise a new issue in this repo.
+
+## Documentation (User Guide & Developer Guide)
+
+All docs are currently available in the [doc](https://github.com/foss42/apidash/blob/main/doc/) folder.
+
+## Resources for New Contributors
+ Relevant Links Adding Soon
+
 ## Contributions
-1.Fork the Repo
-2.Create a Branch with naming conve
+
+You can contribute to The Circle in any or all of the following ways:
+
+- [Submit a bug report](https://github.com/da-Circle/TheCircle-App/issues/new/choose)
+- [Request a new feature](https://github.com/foss42/apidash/issues/new/choose)
+- [Choose from our existing list of ideas](https://github.com/da-Circle/TheCircle-App/discussions) -> Updating Soon
+- [Suggest ways to improve the developer experience of an existing feature](https://github.com/foss42/apidash/issues/new/choose)
+- Add documentation
+- To add a new feature, resolve an existing issue or add a new test to the project, check out our [Contribution Guidelines](CONTRIBUTING.md).
+
+
+
+## Send across a PR
+
+1. Fork the repository.
+2. Create a new branch and name it according to the feature or fix you're working on (e.g., `feature/your-feature-name`).
+3. Make your changes and commit them.
+4. Open a Pull Request to the main repository.
+
+### Community Discussion
+
+Join our dedicated [Discord server](https://discord.gg/your-invite-link) and talk about common features, functionalities, and improvements. This is where we brainstorm, share ideas, and collaborate on the app’s development.
+
+

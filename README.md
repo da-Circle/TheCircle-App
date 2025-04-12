@@ -52,7 +52,7 @@ You can contribute to The Circle in any or all of the following ways:
 ## Send across a PR
 
 1. Fork the repository.
-2. Create a new branch and name it according to the feature or fix you're working on (e.g., `feature/your-feature-name`).
+2. Create a new branch and name it according to the feature or fix you're working on (e.g., `add-feature-xyz/resolve-issue-xyz`).
 3. Make your changes and commit them.
 4. Open a Pull Request to the main repository.
 

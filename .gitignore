@@ -1,0 +1,46 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/build/
+macos/build/
+linux/build/
+windows/build/
+web/build/
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Platform specific
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/Flutter/.last_build_id
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/.gradle
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.*
+
+# App specific
+.env
+*.lock
+DerivedData/
+.xcuserstate
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json

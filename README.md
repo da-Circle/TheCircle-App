@@ -2,7 +2,7 @@
 ![logo](images/logo.png)
 -->
 # Da-Circle ⚡️
-# Join our dedicated Discord Server and talk about common features, functionalities, and improvements. This is where we brainstorm, share ideas, and collaborate on the app’s development.
+### Join our dedicated Discord Server and talk about common features, functionalities, and improvements. This is where we brainstorm, share ideas, and collaborate on the app’s development.
 [![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ye4dYYGM)
 
 ## Usage

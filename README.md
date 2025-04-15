@@ -31,7 +31,7 @@ Just click on the [Issue tab](https://github.com/da-Circle/TheCircle-App/issues)
 
 ## Documentation (User Guide & Developer Guide)
 
-All docs will be  available soon in the [doc](https://github.com/foss42/apidash/blob/main/doc/) folder.
+All docs will be  available soon in the [doc](https://github.com/da-Circle/TheCircle-App/blob/main/doc/) folder.
 
 ## Resources for New Contributors
  Relevant Links Adding Soon
@@ -41,9 +41,9 @@ All docs will be  available soon in the [doc](https://github.com/foss42/apidash/
 You can contribute to The Circle in any or all of the following ways:
 
 - [Submit a bug report](https://github.com/da-Circle/TheCircle-App/issues/new/choose)
-- [Request a new feature](https://github.com/foss42/apidash/issues/new/choose)
+- [Request a new feature](https://github.com/da-Circle/TheCircle-App/issues/new/choose)
 - [Choose from our existing list of ideas](https://github.com/da-Circle/TheCircle-App/discussions) -> Updating Soon
-- [Suggest ways to improve the developer experience of an existing feature](https://github.com/foss42/apidash/issues/new/choose)
+- [Suggest ways to improve the developer experience of an existing feature](https://github.com/da-Circle/TheCircle-App/issues/new/choose)
 - Add documentation
 - To add a new feature, resolve an existing issue or add a new test to the project, check out our [Contribution Guidelines](CONTRIBUTING.md) -> Updating Soon.
 

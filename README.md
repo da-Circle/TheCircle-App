@@ -31,7 +31,7 @@ Just click on the [Issue tab](https://github.com/da-Circle/TheCircle-App/issues)
 
 ## Documentation (User Guide & Developer Guide)
 
-All docs will be  available soon in the [doc](https://github.com/da-Circle/TheCircle-App/blob/main/doc/) folder.
+All docs will be  available soon.
 
 ## Resources for New Contributors
  Relevant Links Adding Soon
